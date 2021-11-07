@@ -36,7 +36,7 @@ export default function TextForm(props) {
           class="btn btn-primary mx-1"
           onClick={handleUpClick}
         >
-          Convert to Uppercase
+          Convert to UpperCase
         </button>
         <button
           type="button"
